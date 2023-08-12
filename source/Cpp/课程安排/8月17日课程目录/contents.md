@@ -17,10 +17,12 @@
     <tr>
   		<td align="center" valign="middle">9</td>
         <td align="center" valign="middle">08:30-09:20</td>
-        <td align="center" valign="middle">林婷婷</td>
+        <td align="center" valign="middle">高永新</td>
         <td align="center" valign="middle">教授</td>
-        <td align="center" valign="middle">吉林大学</td>
-        <td align="center" valign="middle">地面核磁共振原理与应用</td>
+        <td align="center" valign="middle">合肥大学</td>
+        <td align="center" valign="middle">震电效应原理<br>
+Principle of seismoelectric effect
+</td>
     </tr>
     <tr>
         <td align="center" valign="middle">10</td>
@@ -46,12 +48,24 @@
         <td align="center" valign="middle">德国弗莱贝格工业大学</td>
         <td align="center" valign="middle">The finite element method in geo-electromagnetic modeling</td>
     </tr>
-       <tr>
+               <tr>
   		<td align="center" valign="middle">13</td>
         <td align="center" valign="middle">14:00-14:50</td>
+        <td align="center" valign="middle">白登海</td>
+        <td align="center" valign="middle">研究员</td>
+        <td align="center" valign="middle">中国科学院地质与地球物理研究所</td>
+        <td align="center" valign="middle">大地电磁观测与应用面临的几个基本难题<br>
+Some fundamental difficulties in the measurement and application of magnetotelluric method
+</td>
+    </tr>
+       <tr>
+  		<td align="center" valign="middle">14</td>
+        <td align="center" valign="middle">15:00-18:00</td>
         <td align="center" valign="middle">罗延钟</td>
         <td align="center" valign="middle">教授</td>
         <td align="center" valign="middle">中国地质大学（武汉）</td>
-        <td align="center" valign="middle">电法勘查若干基本概念</td>
+        <td align="center" valign="middle">电法勘查若干基本概念<br>
+Some fundamental concepts in the electric method
+</td>
     </tr>
 </table>

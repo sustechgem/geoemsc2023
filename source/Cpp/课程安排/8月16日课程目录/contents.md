@@ -76,6 +76,6 @@
         <td align="center" valign="middle">杨迪琨</td>
         <td align="center" valign="middle">助理教授</td>
         <td align="center" valign="middle">南方科技大学</td>
-        <td align="center" valign="middle">震电效应原理</td>
+        <td align="center" valign="middle"></td>
     </tr>
 </table>

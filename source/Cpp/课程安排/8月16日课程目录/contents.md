@@ -5,7 +5,7 @@
         table,table tr th, table tr td { border:1px solid #000000; }
     </style>
 
-<table align="center" cellpadding="8">
+<table align="center" cellpadding="10">
     <tr>
         <th align="center" valign="middle">单元</th align="center" valign="middle">
         <th align="center" valign="middle">时间</th align="center" valign="middle">

@@ -9,7 +9,7 @@
 
 .. toctree::
    :maxdepth: 14
-
+   :caption: Contents:
    1电磁自适应有限元计算
    2地球电磁反演理论与应用
    3时间域电磁场计算的频谱法

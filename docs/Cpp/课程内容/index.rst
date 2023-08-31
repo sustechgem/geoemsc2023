@@ -21,7 +21,7 @@
    9震电效应原理
    10Time-domain EM-Theory and its applications in hydro-geophysics
    11Theory and applications of ground penetrating radar method
-   1212Some Thoughts on  Electromagnetic Modeling
+   12Some Thoughts on  Electromagnetic Modeling
    13大地电磁观测与应用面临的几个基本难题
    14电法勘查若干基本概念
 

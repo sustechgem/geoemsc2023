@@ -45,7 +45,7 @@ Principle of seismoelectric effect</td>
         <td align="center" valign="middle">Klaus Spitzer</td>
         <td align="center" valign="middle">教授</td>
         <td align="center" valign="middle">德国弗莱贝格工业大学</td>
-        <td align="center" valign="middle">The finite element method in geo-electromagnetic modeling</td>
+        <td align="center" valign="middle">Some Thoughts on  Electromagnetic Modeling</td>
     </tr>
         <tr>
   	<td align="center" valign="middle">13</td>

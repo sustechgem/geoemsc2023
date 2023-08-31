@@ -18,9 +18,10 @@
    6频谱激电原理与应用
    7大地电磁数据处理与三维反演
    8三维电磁快速并行正反演的观测分解
+   9震电效应原理
    10Time-domain EM-Theory and its applications in hydro-geophysics
    11Theory and applications of ground penetrating radar method
-   12Some Thoughts on Electromagnetic Modeling
+   12Some Thoughts on  Electromagnetic Modeling
    13大地电磁观测与应用面临的几个基本难题
    14电法勘查若干基本概念
 

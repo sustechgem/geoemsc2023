@@ -9,7 +9,7 @@
 
 .. toctree::
    :maxdepth: 14
-   :caption: Contents:
+
    1电磁自适应有限元计算
    2地球电磁反演理论与应用
    3时间域电磁场计算的频谱法
@@ -18,6 +18,7 @@
    6频谱激电原理与应用
    7大地电磁数据处理与三维反演
    8三维电磁快速并行正反演的观测分解
+   9震电效应原理
    10Time-domain EM-Theory and its applications in hydro-geophysics
    11Theory and applications of ground penetrating radar method
    12The finite element method in geo-electromagnetic modeling

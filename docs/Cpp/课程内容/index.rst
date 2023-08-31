@@ -8,8 +8,8 @@
 ================================================
 
 .. toctree::
-   :maxdepth:13
-   
+   :maxdepth: 14
+
    1电磁自适应有限元计算
    2地球电磁反演理论与应用
    3时间域电磁场计算的频谱法
@@ -20,6 +20,10 @@
    8三维电磁快速并行正反演的观测分解
    10Time-domain EM-Theory and its applications in hydro-geophysics
    11Theory and applications of ground penetrating radar method
-   12Some Thoughts on Electromagnetic Modeling
+   12The finite element method in geo-electromagnetic modeling
    13大地电磁观测与应用面临的几个基本难题
    14电法勘查若干基本概念
+
+
+
+

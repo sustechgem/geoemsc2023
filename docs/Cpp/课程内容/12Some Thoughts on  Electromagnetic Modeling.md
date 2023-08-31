@@ -1,5 +1,4 @@
 # 12Some Thoughts on Electromagnetic Modeling
-
 ## 讲师简介
 
 <img src="https://z4a.net/images/2023/08/28/12-5.md.jpg" alt="-428672a8abf52070.jpeg" border="0"  />

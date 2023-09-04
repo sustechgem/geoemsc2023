@@ -15,4 +15,4 @@ I was dean/vice dean of the Faculty of Geosciences, Geoengineering and Mining fr
 
 ## 课件下载
 
-[Klaus Spitzer-Some Thoughts on Electromagnetic Modeling（点击进入）](https://916aedf0-2a44-4742-b053-7e90f7fc828d.filesusr.com/ugd/478d0c_30701069afcd4610a561a6789f800b97.pdf)
+[Klaus Spitzer-Some Thoughts on Electromagnetic Modeling（点击进入）][https://7e872347-e5c6-402c-a41b-efb657b205cb.filesusr.com/ugd/53a1d9_9570a20273be40d09dec58e8452de8c1.pdf]
